@@ -1,3 +1,6 @@
+# 보고서
+https://www.canva.com/design/DAGkVM7qDQw/P3Zg1elwo83iBKe83ARdtQ/edit
+
 # 1. charging_station_count.ipynb
 ## 파일 목적
 * 전국 충전소 수 파일을 기반으로 지역별/전국 충전소 월별 증가/누적수 전처리
